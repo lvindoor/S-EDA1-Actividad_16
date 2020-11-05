@@ -1,0 +1,12 @@
+Centos7
+2
+Ivindoor
+core 2 duo
+Ubuntu 18.04
+4
+innovation
+Core i5
+Windows 10
+8
+alejandro
+Core i7
